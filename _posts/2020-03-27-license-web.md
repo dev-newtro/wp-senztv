@@ -4,7 +4,7 @@ post_title: 오픈소스 Web
 author: newtro
 post_excerpt: ""
 layout: post
-permalink: 'http://etc.senztv.com/%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4-web/'
+permalink: http://etc.senztv.com/license-web/
 published: true
 post_date: 2020-03-27 08:00:14
 ---
