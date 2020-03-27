@@ -4,7 +4,7 @@ post_title: 오픈소스 Android
 author: newtro
 post_excerpt: ""
 layout: post
-permalink: 'http://etc.senztv.com/%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4-android/'
+permalink: http://etc.senztv.com/license-and/
 published: true
 post_date: 2020-03-27 08:00:39
 ---
