@@ -4,7 +4,7 @@ post_title: 오픈소스 IOS
 author: newtro
 post_excerpt: ""
 layout: post
-permalink: http://etc.senztv.com/license-and-2/
+permalink: http://etc.senztv.com/license-ios/
 published: true
 post_date: 2020-04-02 03:20:10
 ---
