@@ -1,6 +1,6 @@
 ---
 ID: 14
-post_title: 서비스 유료 서비스
+post_title: 유료 서비스 이용약관
 author: newtro
 post_excerpt: ""
 layout: post
@@ -769,5 +769,5 @@ post_date: 2020-03-18 07:05:37
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>&lt;부칙> 1. 이 약관은 2020년 1월 1일부터 시행됩니다.</p>
+<p>&lt;부칙&gt; 1. 이 약관은 2020년 1월 1일부터 시행됩니다.</p>
 <!-- /wp:paragraph -->
